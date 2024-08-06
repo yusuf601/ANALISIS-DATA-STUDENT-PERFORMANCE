@@ -34,7 +34,7 @@ Proyek ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi kinerja 
 
 ## Hasil
 
-* **Ringkasan hasil ANOVA:** [Jelaskan hasil uji ANOVA, apakah ada perbedaan signifikan antara kelompok?]
+* **Ringkasan hasil ANOVA:** Dalam Analisis saya menggunakan Anova ada perbedaan signifika nilai Laki-laki dan perempuan
 * **Model Anova:**
     * Persamaan Anova: Berdasarkan hasil analisis ANOVA, dapat disimpulkan bahwa terdapat perbedaan yang signifikan antara rata-rata nilai siswa laki-laki dan perempuan. Siswa perempuan memiliki rata-rata nilai yang lebih tinggi daripada siswa laki-laki
     * Evaluasi model: R-squared, F-Static
